@@ -2,8 +2,8 @@
 
 This package contains the MATLAB code which is associated with the following paper:
 
-Yuchan Jie, Xiaosong Li*, Haishu Tan, Fuqiang Zhou, and Gao Wang "Multi-modal Medical Image Fusion via Multi-dictionary and Truncated Huber Filtering" ,Biomedical Signal Processing and Control,
-
+Yuchan Jie, Xiaosong Li, Haishu Tan, Fuqiang Zhou, Gao Wang, "Multi-modal medical image fusion via multi-dictionary and truncated Huber filtering" ,Biomedical Signal Processing and Control,Volume 88，2024,105671,
+https://doi.org/10.1016/j.bspc.2023.105671.
 Edited by Yuchan Jie.
 
 Usage of this code is free for research purposes only.
